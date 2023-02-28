@@ -1,0 +1,26 @@
+<html>
+<head><title>Logon Error</title></head>
+<body text=#630093 bgcolor=#EBDFF5
+link=#0000FF vlink=#800080 alink=#FF0000>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100% BGCOLOR=#FFFFFF>
+<td ALIGN=LEFT VALIGN=CENTER>
+<img SRC=/servletimages/planet_header.jpg BORDER=0 height=38 width=300>
+<hr><center>
+ <font color=#630093><b><font size=+2>USER SESSION HAS EXPIRED AND/OR LOGON HAS NOT OCCURED.<br><br>PLEASE RESTART THE BROWSER AND/OR LOGON TO ACCESS SYSTEM.</font></b>
+ </center>
+<br><br><center><a href=/Logon>Logon</a>
+<center><hr>
+<A HREF=/MainMenu/>Main Menu</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/Overage/>Overage</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/Shortage/>Shortage</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/Recon/>Recon</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/Manifest/>Manifest</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/Audit/>Audit</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/AwbLookup/>AWB Lookup</A>&nbsp;&nbsp;&nbsp;
+<A HREF=/Logoff/>Logoff</A>&nbsp;&nbsp;&nbsp;
+<br><br>
+<img SRC="/servletimages/CCS_logo_slice.gif" BORDER=0 height=34 width=135>
+</form><center><table CELLSPACING=5 ><tr><td><center>
+<b><font size=-2>Copyright, 2001. FederalExpress Corporation. All rights reserved.</font></b>
+</td></tr></table>
+</td></tr></center></table></body></html>

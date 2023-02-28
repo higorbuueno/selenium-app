@@ -1,0 +1,5 @@
+
+application:
+  proxy: 
+    port: 0
+    host:
